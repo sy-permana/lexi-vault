@@ -1,0 +1,6 @@
+{
+  "extends": "@lexivault/config/tsconfig.base.json",
+  "compilerOptions": {
+    "strictNullChecks": true
+  }
+}
